@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+    margin-top: 3vh;
+    height: 96vh
+}
+
+td{
+    width: 5%;
+    height: 7vh;
+}
+
+.borda {border:solid;
+text-align: center;}
+
+div{
+    text-align: left;
+}
+
+.naometais { background-color: #B3D76A;}
+.gasesnobres {background-color: #67AFDE;}
+.halogenios  {background-color: #A7DFF3;}
+.semimetal {background-color: #66C4BC}
+.metaisalcalinosterrosos {background-color: #efe55b;}
+.metaisalcalinos {background-color: #f5c95e;}
+.outrosmetais {background-color: #a2c6d2;}
+.metaisdetransicao {background-color: #f2b0b0;}
+.vazio {vertical-align: top;}
+.Lantanideos {background-color: rgb(151 215 225);}
+.Actinidios {background-color: rgb(226 189 216);}
+.massa{
+    font-size: 15px;
+}
+
+.bordinha {}
